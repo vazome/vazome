@@ -1,6 +1,7 @@
 ### Hi there/Привет! 👋
 
 I'm a self-taught Sysadmin from Russia :ru:
+Check out my new project: https://github.com/vazome/price-grabber
 
 #### Context
 - :dvd: I prefer Ubuntu/CentOS, occasionally working with Windows Server
