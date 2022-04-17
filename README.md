@@ -1,6 +1,6 @@
 ## Hi there/Привет! 👋
 
-I'm a self-taught System Administrator from Russia. Specialising on integration, deployment and support.
+I'm a self-taught System Administrator from Russia. Specializing on integration, deployment and support.
 
 - :dvd: I prefer Ubuntu/CentOS, also work with Windows Server. Happen to work closely with MDM solutions like Intune & Jamf.
 - :man_technologist: Use Ansible, Bash, PowerShell.
